@@ -1,4 +1,3 @@
-CREATE DATABASE registerformtask;
 
 USE registerformtask;
 
@@ -7,4 +6,3 @@ CREATE TABLE users (
     name varchar(32), 
     email varchar(32) UNIQUE, 
     password varchar(32));
-

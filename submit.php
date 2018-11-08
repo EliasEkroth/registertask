@@ -80,3 +80,4 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['password']))
     }
 }
 ?>
+    >>>>>>> 2bd5e59f68b6d705c1d0e8dad56e03162558098b
